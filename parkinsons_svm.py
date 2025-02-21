@@ -8,7 +8,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load the dataset
-file_path = '/mnt/data/parkinson_disease.csv'
+file_path = '/data/parkinson_disease.csv'
 df = pd.read_csv(file_path)
 
 # Display basic info
