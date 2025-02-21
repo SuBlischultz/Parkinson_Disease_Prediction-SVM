@@ -1,7 +1,9 @@
-# Parkinson_Disease_Prediction-SVM
+# Parkinson_Disease_Prediction
 SVM-based Parkinson's Disease Prediction model
 
-This project predicts Parkinson's Disease using a Support Vector Machine (SVM) model.
+[![GitHub Pages](https://img.shields.io/badge/View-Live%20Site-blue)](https://sublischultz.github.io/Parkinson_Disease_Prediction-SVM/)
+
+A machine learning project to predict Parkinson's disease using a Support Vector Machine (SVM) model.
 
  📁 Dataset
 - Parkinson's Disease dataset with biomedical voice measurements.
